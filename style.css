@@ -1,0 +1,33 @@
+body {
+    color: white;
+    margin: 0;
+    background-color: black;
+}
+#canvas{
+    width: 99%;
+    height: 99vh !important;
+}
+
+.canvas-wrapper {
+    border-style: solid;
+    width: 99%;
+    height: 99vh !important;
+}
+
+.center {
+    text-align: center;
+}
+
+.game {
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#score {
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    top: 0px;
+    left: 50px;
+}
